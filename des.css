@@ -1,0 +1,44 @@
+.navigasi {
+    background-color: rgba(0, 0, 0, 0.132);
+    color: aliceblue;
+    font-size : 30px;
+    font-family: serif;
+    padding: 50px;
+    width: 1200px;
+    height: 10px;
+    margin: 25px;
+    margin-top: 10px;
+    margin-left: 0px;
+  
+}
+
+
+nav {
+    display: flex;
+gap: 10%;
+
+}
+
+.isi {
+    font-size: 20 px;
+    font-family: initial;
+    margin-left: 40px;
+text-align: justify;
+ width: 1000px;
+}
+
+.isi h1 {
+    font-size: 30px;
+    font-family: initial;
+    margin-bottom: 10px;
+}
+
+
+#foto1 {
+    text-align: center;
+    width: 500px;
+    image\
+
+
+
+}
